@@ -16,7 +16,7 @@ This Flask-based REST API interacts with the YouTube comment fetching API to per
 4. Activate the virtual environment:
    - Windows: `venv\Scripts\activate`
    - MacOS/Linux: `source venv/bin/activate`
-5. Install required libraries: `pip install -r requirements.txt`
+5. Install required libraries
 
 ## Running the API
 1. Ensure you are in the project directory.
